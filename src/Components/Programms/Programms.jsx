@@ -6,6 +6,7 @@ import earth from '../../assets/earth.jpg'
 import pin from '../../assets/pin.png'
 import atletic from '../../assets/atletic.jpg'
 import sports from '../../assets/sports.png'
+import ven from '../../assets/ven.jpg'
 
 const Programms = () => {
   return (

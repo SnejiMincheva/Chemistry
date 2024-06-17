@@ -11,9 +11,17 @@
     font-weight: 400;
     font-size: 150%; 
     text-align: justify;
-    padding-top: 40px;
-    margin-top: 10px;
     width: 50%;
     margin-left: auto; 
-    color: #000F38
+    color: #000F38;
+    float: right;
+    padding-bottom: 30px;
+}
+
+.pic{
+    width: 40%;
+    height: 40%;
+    display: flexbox;
+    border-radius: 20%;
+    padding-top: 30px;
 }
